@@ -1,0 +1,10 @@
+Definições
+==========
+
+.. _Dispositivo:
+
+Dispositivo
+~~~~~~~~~~~
+
+É representado pelo conjunto de aparelhos ou mecanismos que possuam capacidade de integração e comunicação via API com a base de dados IOT, bem como realizar a comunicação e processamento com os recursos 
+de entrada/saída.

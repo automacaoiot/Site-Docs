@@ -1,0 +1,31 @@
+﻿.. _Recurso:
+
+Recurso
+~~~~~~~
+
+É representado pelo conjunto de recursos de entrada/saída que possuam capacidade de integração e comunicação com dispositivo.
+
+.. _Recurso de entrada:
+
+Recurso de Entrada
+~~~~~~~~~~~~~~~~~~
+
+É representado pelo conjunto de recursos que recebem informações da base de dados IOT.
+
+.. tip:: Tipos de Recursos de Entrada.
+   
+   - Relé.
+   - Sirene.
+
+.. _Recurso de Saída:
+
+Recurso de Saída
+~~~~~~~~~~~~~~~~
+
+É representado pelo conjunto de recursos que enviam informações para a base de dados IOT.
+
+.. tip:: Tipos de Recursos de Saída.
+   
+   - Temperatura.
+   - Umidade.
+   - Distância
