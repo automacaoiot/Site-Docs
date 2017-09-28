@@ -1,4 +1,4 @@
-Definições
+﻿Definições
 ----------
 
 .. _Dispositivo:
@@ -70,7 +70,7 @@ Um recurso de saída envia informações para a base de dados IOT através da AP
 Em geral estes recursos são conectados a dispositivos que informam ou reportam dados concretos que representam alguma coisa no mundo real. 
 
 .. tip:: Mundo Real.
-   Sistema embarcado fornece dados de temperatura e umidade do ambiente. Dados são armazenados,   parametrizados e disponibilizados para acesso a usu⳩os com permiss䯮
+   Sistema embarcado fornece dados de temperatura e umidade do ambiente. Dados são armazenados,   parametrizados e disponibilizados para acesso a usuários com permissão
     - Temperatura, 
     - Umidade, 
     - Distância, 

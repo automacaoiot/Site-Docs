@@ -3,18 +3,18 @@ Links
 
 .. _Links Externos::
 
-Links
-~~~~~
+Links Externos
+~~~~~~~~~~~~~~
 
 Documentação API_ Automação-IOT.
 
-.. _API: http://api-automacaoiot.readthedocs.io/pt/latest/
+.. _API: http://api-automacaoiot.readthedocs.io
 
 
 Documentação SDK ESP8266_ Automação-IOT. 
 
-.. _ESP8266: http://api-automacaoiot.readthedocs.io/pt/latest/
+.. _ESP8266: http://esp8266sdk-automacaoiot.readthedocs.io
 
 Documentação Biblioteca_ ESP8266 SDK. 
 
-.. _Biblioteca: http://api-automacaoiot.readthedocs.io/pt/latest/
+.. _Biblioteca: 

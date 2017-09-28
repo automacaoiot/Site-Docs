@@ -1,4 +1,4 @@
-Funcionalidades
+﻿Funcionalidades
 ---------------
 
 .. _Criando Dispositivo e Recurso:
@@ -17,7 +17,7 @@ cadastrar recurso.
 
 - Tempo Presença: Tempo em minutos (Lifetime) que demonstra o status do dispositivo, que poderá ser Conectado ou Desconectado.
 - Time Zone: Que irá ajustar a data/hora conforme o GMT do dispositivo.
-- Latitude e Longitude :  São relativos as coordenadas onde encontra-se o dispositivo (que poderá ser visualizado através do Mapa). Inicialmente estes campos estar䯠preenchidos com as coordenadas do endere诠cadastrado pelo usu⳩o (op褯 Usu⳩o ֠Alterar cadastro), caso o endere诠seja vazio, as coordenadas ser䯠preenchidas com as coordenadas do provedor de IP do usu⳩o. Para alterarmos manualmente as coordenadas do dispositivo, deveremos clicar na opção Mapa, e posicionarmos o marcador na localização desejada.
+- Latitude e Longitude :  São relativos as coordenadas onde encontra-se o dispositivo (que poderá ser visualizado através do Mapa). Inicialmente estes campos estarão preenchidos com as coordenadas do endereço cadastrado pelo usuário (opção Usuário Alterar cadastro), caso o endereço esteja vazio, as coordenadas serão preenchidas com as coordenadas do provedor de IP do usuário. Para alterarmos manualmente as coordenadas do dispositivo, deveremos clicar na opção Mapa, e posicionarmos o marcador na localização desejada.
 
 .. image:: ../imagem/cadastro-mapa.png
    :align: center   
