@@ -196,7 +196,7 @@ Responsável por exibir Log de reset do dispositivo.
 .. image:: ../imagem/log-device.png
     :align: center
 
-.. note:: Mensagens de logs
+.. note:: Mensagens de logs do SDK do ESP8266:
 
   - Power reboot,
   - Hardware WDT reset,
