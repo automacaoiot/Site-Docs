@@ -178,7 +178,7 @@ Mapa
 
 Através da opção *Mapa* poderá ser visualizado todos os dispositivos cadastrados na conta em uso.
 
-O marcador estará associado ao ícone selecionado, por ocasião do cadastro deste.
+O marcador estará associado ao ícone selecionado, por ocasião do cadastro do Dispositivo.
 
 .. note:: Marcadores
 

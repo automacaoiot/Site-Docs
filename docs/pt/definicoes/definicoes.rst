@@ -1,4 +1,4 @@
-﻿Definições
+Definições
 ----------
 
 .. _Dispositivo:
@@ -46,6 +46,8 @@ Recurso de Saída
    - Umidade.
    - Distância
 
+.. _Recurso de Entrada e Saída:
+
 Recurso de Entrada e Saída
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -66,8 +68,8 @@ Fluxo de Entrada
 Um recurso de entrada recebe informações da base de dados IOT através da API. Em geral estes recursos são conectados a dispositivos
 que necessitam de algum estímulo para serem ativados.
 
-.. note:: Mundo Real.
-   Sistema embarcado recebe ordem para ativação de um relé. Este relé poderá acionar um equipamento elétrico associado a este, tais como :
+.. note:: Mundo Real. Sistema embarcado recebe ordem para ativação de um relé. Este relé poderá acionar um equipamento elétrico associado a este, tais como:
+
     - Motor,
     - Lâmpada,
     - Sirene,
@@ -84,8 +86,8 @@ Fluxo de Saída
 Um recurso de saída envia informações para a base de dados IOT através da API.
 Em geral estes recursos são conectados a dispositivos que informam ou reportam dados concretos que representam alguma coisa no mundo real.
 
-.. note:: Mundo Real.
-   Sistema embarcado fornece dados de temperatura e umidade do ambiente. Dados são armazenados,   parametrizados e disponibilizados para acesso a usuários com permissão
+.. note:: Mundo Real. Sistema embarcado fornece dados de temperatura e umidade do ambiente. Dados são armazenados,   parametrizados e disponibilizados para acesso a usuários com permissão:
+
     - Temperatura,
     - Umidade,
     - Distância,

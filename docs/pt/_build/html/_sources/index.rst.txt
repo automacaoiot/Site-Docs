@@ -13,15 +13,15 @@ If you are looking for the english documentation go to `here`_.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Settings:
+   :caption: Definicoes:
 
-   settings/settings
+   definicoes/definicoes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Features:
+   :caption: Funcionalidades:
 
-   features/features
+   funcionalidades/funcionalidades
 
 .. toctree::
   :maxdepth: 1
