@@ -57,7 +57,7 @@ source_encoding = 'utf-8'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Web System Docs'
+project = 'Site'
 copyright = '2017, Automacao-IOT'
 author = 'Automacao IOT'
 
