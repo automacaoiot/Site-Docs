@@ -1,2 +1,2 @@
 # WebSystem-Docs
-WebSystem Documentation
+Site Documentation
